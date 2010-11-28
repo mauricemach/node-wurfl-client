@@ -1,0 +1,14 @@
+{
+  "name": "wurfl-client",
+  "description": "Simple client for WURFL's (mobile devices database) HTTP API.",
+  "version": "0.0.1",
+  "author": "Maurice Machado <maurice@bitbending.com>",
+  "keywords": ["mobile", "device", "detection"],
+  "main": "index",
+  "directories": {
+    "lib": "."
+  },
+  "engines": {
+    "node": ">= 0.2.5"
+  }
+}
